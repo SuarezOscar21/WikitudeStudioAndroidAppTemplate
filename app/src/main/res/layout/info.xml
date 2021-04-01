@@ -10,7 +10,7 @@
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
 
-    tools:context=".MainActivity">
+   >
 
     <LinearLayout
         android:orientation="vertical"
